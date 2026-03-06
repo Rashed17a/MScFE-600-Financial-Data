@@ -93,4 +93,4 @@ Implements quantitative models for loan approval decisions, risk scoring, and le
 
     ## 📄 License
 
-    This repository is for academic purposes. All rights reserved © 2024 MD Rashedul Islam Rasel.
+    This repository is for academic purposes. All rights reserved © 2024 MD RASHEDUL ISLAM RASEL.
