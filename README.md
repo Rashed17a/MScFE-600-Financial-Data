@@ -84,13 +84,13 @@ Implements quantitative models for loan approval decisions, risk scoring, and le
 
  ## 👤 Author
 
-                          **MD RASHEDUL ISLAM RASEL** | WorldQuant University MScFE Student
+   **MD RASHEDUL ISLAM RASEL** | WorldQuant University MScFE Student
 
-                          [![GitHub](https://img.shields.io/badge/GitHub-Rashed17a-181717?logo=github)](https://github.com/Rashed17a)
-                          [![LinkedIn](https://img.shields.io/badge/LinkedIn-rashedul--islam--427813190-0077B5?logo=linkedin)](https://www.linkedin.com/in/rashedul-islam-427813190)
+   [![GitHub](https://img.shields.io/badge/GitHub-Rashed17a-181717?logo=github)](https://github.com/Rashed17a)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-rashedul--islam--427813190-0077B5?logo=linkedin)](https://www.linkedin.com/in/rashedul-islam-427813190)
    
-    - ---
+   - ---
 
-    ## 📄 License
+   ## 📄 License
 
-    This repository is for academic purposes. All rights reserved © 2024 MD RASHEDUL ISLAM RASEL.
+   This repository is for academic purposes. All rights reserved © 2024 MD RASHEDUL ISLAM RASEL.
